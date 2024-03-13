@@ -11,15 +11,10 @@ Soy un estudiante de Ingeniería en Desarrollo y Gestión de Software apasionado
 - Base de Datos: MongoDB, PostgreSQL, MySQL
 - Gestión de Proyectos: Metodologías Ágiles, Scrum
 
-## 🌱 Actualmente Aprendiendo
-
-Explorando el mundo de la inteligencia artificial y el aprendizaje automático con Python y TensorFlow.
 
 ## 💼 Proyectos Destacados
 
-- [Proyecto 1](enlace-al-proyecto-1): Videojuego de pacman.
-- [Proyecto 2](enlace-al-proyecto-2): Aplicación web de hospital.
-- [Proyecto 2](enlace-al-proyecto-2): Aplicación movil para escuela.
+- [Proyecto 1](https://github.com/Isaac384/Pacman-videogame): Videojuego de pacman.
 
 ## 📚 Educación
 
